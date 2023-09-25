@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "tomblind.scm-buttons-vscode"
+        "tomblind.scm-buttons-vscode",
+        "eamodio.gitlens"
     ]
 }
